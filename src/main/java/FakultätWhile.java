@@ -1,7 +1,7 @@
 public class FakultätWhile {
 
     public static void main(String[] args) {
-        System.out.println(berechnung(7));
+        System.out.println(berechnung(2));
     }
 
     public static int berechnung(int a){
