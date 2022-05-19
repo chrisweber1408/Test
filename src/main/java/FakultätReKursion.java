@@ -9,7 +9,7 @@ public class FakultätReKursion {
     }
 
     public static void main(String[] args) {
-        System.out.println(berechnung(2));
+        System.out.println(berechnung(5));
     }
 
 }
